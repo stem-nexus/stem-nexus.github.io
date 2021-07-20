@@ -1,2 +1,4 @@
-# stem-nexus.github.io
-GitHub Pages
+# Stem Nexus 
+---
+
+Helping students, scholars, and creative folks of ALL AGES learn Science, Technology, Engineering, and Math.
