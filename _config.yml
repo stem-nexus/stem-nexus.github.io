@@ -1,11 +1,11 @@
-theme: jekyll-theme-dinky
+title: Stem Nexus
+author: Mike Hastie
+email: mike.hastie@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Helping develop skills in Science, Technology, Engineering, and Math for people of all ages. 
+# social links
+# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username: stem-nexus # DO NOT include the @ character, or else the build will fail!
 
-lsi: false
-safe: true
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
